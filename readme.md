@@ -1,4 +1,4 @@
-# Data JSON Wilayah di Indonesia
+# Data Wilayah di Indonesia (JSON)
 
 Proyek ini bertujuan untuk mengambil data wilayah Indonesia (provinsi, kabupaten/kota, kecamatan, dan desa) dari API resmi pemerintah menggunakan Node.js dengan Vanilla JavaScript, dan menyimpan data dalam format JSON.
 
