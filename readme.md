@@ -1,4 +1,4 @@
-# Proyek Pengambilan Data Wilayah Indonesia
+# Data JSON Wilayah di Indonesia
 
 Proyek ini bertujuan untuk mengambil data wilayah Indonesia (provinsi, kabupaten/kota, kecamatan, dan desa) dari API resmi pemerintah menggunakan Node.js dengan Vanilla JavaScript, dan menyimpan data dalam format JSON.
 
@@ -8,13 +8,13 @@ Proyek ini bertujuan untuk mengambil data wilayah Indonesia (provinsi, kabupaten
 2. Clone repositori ini ke komputer lokal Anda.
 
     ```bash
-    git clone https://github.com/nama_pengguna/repo_anda.git
+    git clone https://github.com/muhammadluttfy/data-wilayah-indonesia-json.git
     ```
 
 3. Masuk ke direktori proyek.
 
     ```bash
-    cd repo_anda
+    cd data-wilayah-indonesia-json
     ```
 
 4. Install semua dependensi yang diperlukan.
@@ -39,7 +39,8 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan b
 
 ## Kontak
 
-- Instagram: [@muhammadluttfy](https://www.instagram.com/muhammadluttfy)
-- LinkedIn: [Muhammad Lutfi](https://www.linkedin.com/in/muhammadluttfy)
+- **Instagram:** [@muhammadluttfy](https://www.instagram.com/muhammadluttfy)
+- **LinkedIn:** [Muhammad Lutfi](https://www.linkedin.com/in/muhammadluttfy)
 
-Silakan hubungi saya jika Anda memiliki pertanyaan atau saran terkait proyek ini!
+Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau saran terkait proyek ini!
+
